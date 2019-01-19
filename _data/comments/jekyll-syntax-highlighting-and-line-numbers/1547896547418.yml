@@ -1,0 +1,13 @@
+_id: 91b707f0-1bdb-11e9-85a5-7f61d3b02144
+message: >-
+  **Update:** I submitted a [PR to
+  Rouge](https://github.com/jneen/rouge/pull/897) soon after this writing in
+  order to get the `linewise` option supported by the syntax highlighter. If
+  that PR gets accepted, I would submit another one to Jekyll to support
+  `linedivs` natively, without the need for a plugin.While I'm still waiting for
+  the PR to get merged (it's been almost a year!), it looks like it's been
+  looked at by somebody -- finally!
+name: Bytedude
+email: ''
+url: bytedude.com
+date: '2019-01-19T11:15:47.418Z'
